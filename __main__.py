@@ -1,15 +1,11 @@
 #!/usr/bin/python3
 import sys
 import os
-import argparse
+import argparsea
 
+asjdhfkm
 
-parser = argparse.ArgumentParser()
-
-parser.add_argument("-o", "--output", default="output.mp4")
-parser.add_argument("input")
-
-args = parser.parse_args()
+;hsadhfkasjdf
 
 VIDEO_NAME = args.input
 OUTPUT_NAME = args.output
